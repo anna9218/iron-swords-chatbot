@@ -1,0 +1,24 @@
+.chatbot-header {
+    font-family: 'GRIFTER';
+    font-size: 48px;
+    text-align: center;
+    width: 600px;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+    background: var(--lin, linear-gradient(89deg, #000 30.6%, #4282FF 64.11%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.chatbot-sections {
+    font-family: 'GRIFTER';
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

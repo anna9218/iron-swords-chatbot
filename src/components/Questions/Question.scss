@@ -1,0 +1,27 @@
+.questions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 986px;
+}
+
+.question-example {
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    height: 56px;
+
+    &--button {
+        color: #000000CC;
+        font-family: Poppins;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        border: none;
+        background: white;
+        padding: 16px;
+        width: 320px;
+    }
+}
